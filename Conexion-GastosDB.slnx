@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="creacion-de-base-y-tabla.sql" />
+  </Folder>
+  <Project Path="Conexion-GastosDB.csproj" />
+</Solution>
