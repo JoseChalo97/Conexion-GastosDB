@@ -1,6 +1,6 @@
 Conexión a Base de datos y lectura de registros
 
-Cómo ejecutarlo
+Cómo ejecutarlo:
 
 Abre el proyecto en Visual Studio Community y presiona F5.
 O utiliza el comando dotnet run desde la terminal.
